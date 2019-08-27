@@ -180,6 +180,11 @@ Sideex cuando se enfoca la orden en un caso de prueba.
 * Sideex espera automáticamente para completar la carga de la página.
 * Sideex se ejecuta como una extensión para Chrome o para Firefox. 
   Está disponible para descargar uso gratuito en  http://sideex.org/
+  
+  * Para hacer una seleccion multiple tiene Chosen con Sideex debemos 
+    escribir el comando: 
+    $('.chosen-select').removeAttr('style'); $('.chosen-container').remove(); $('.chosen-select')
+    .removeClass('chosen-select')
  
   ![1descarga]()
 
