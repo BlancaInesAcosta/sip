@@ -1,4 +1,4 @@
-# Pruebas del sistema con sideex
+# Pruebas del sistema con sideex 2
 
 Como parte del proceso de desarrollo ágil de una aplicación web
 es importante entre otras:  (1) mantener requerimientos en forma
