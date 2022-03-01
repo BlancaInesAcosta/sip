@@ -14,9 +14,20 @@ negra y por tanto no deben requerir conocer el diseño del código fuente
 o su lógica." (<https://en.wikipedia.org/wiki/System_testing>)
 
 A continuación describimos como realizamos pruebas del sistema en
-Pasos de Jesús usando sideex 2 (http://sideex.org/), suponiendo que las fuentes de la 
-aplicación (y de las pruebas) se almacenan en un repositorio de github (https://github.com)
-y que el seguimiento al desarrollo se realiza en un tablero Trello (https://trello.com).
+Pasos de Jesús usando sideex 2 (http://sideex.org/), suponiendo que las 
+fuentes de la aplicación (y de las pruebas) se almacenan en un repositorio 
+de github (https://github.com) o gitlab (https://gitlab.com) y que el 
+seguimiento al desarrollo tambien.
+
+## 1. Como subir pruebas Sideex
+
+### 1.1 En GitHub
+
+
+### 1.2 En Gitlab
+
+## 1. Como subir Fallas
+
 
 ## 1. Tablero Trello
 
